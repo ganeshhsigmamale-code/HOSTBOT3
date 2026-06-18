@@ -1,0 +1,8 @@
+pyTelegramBotAPI
+psutil
+requests
+flask
+requests-toolbelt
+telethon
+aiohttp
+curl_cffi

@@ -1,0 +1,22 @@
+{
+    "sh": false,
+    "st": false,
+    "bt": true,
+    "pp": true,
+    "mpp": true,
+    "msh": false,
+    "mst": false,
+    "mtxt": false,
+    "mstxt": false,
+    "psh": true,
+    "pmsh": true,
+    "ptxt": true,
+    "gen": true,
+    "bin": true,
+    "check": false,
+    "fl": true,
+    "fake": true,
+    "info": true,
+    "sites": false,
+    "lol": false
+}

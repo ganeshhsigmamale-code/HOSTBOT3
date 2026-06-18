@@ -1,0 +1,2865 @@
+{
+    "562735329": {
+        "credits": 999985,
+        "plan": "VIP",
+        "plan_set_date": "2025-11-24T11:00:51.666872",
+        "total_used": 514,
+        "last_notified": null
+    },
+    "7601293189": {
+        "credits": 1305,
+        "plan": "Free",
+        "plan_set_date": "2025-11-24T11:02:37.686063",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "7139927213": {
+        "credits": 1381,
+        "plan": "Free",
+        "plan_set_date": null,
+        "total_used": 19,
+        "last_notified": null,
+        "last_redeem_time": "2025-12-04T10:27:41.417541"
+    },
+    "8150689379": {
+        "credits": 1471,
+        "plan": "VIP",
+        "plan_set_date": "2025-12-14T14:32:09.067427",
+        "total_used": 29,
+        "last_notified": null,
+        "last_redeem_time": "2025-12-18T14:54:04.131798",
+        "expiry_date": "2025-12-19T14:32:09.067504"
+    },
+    "6144646353": {
+        "credits": 1800,
+        "plan": "Free",
+        "plan_set_date": null,
+        "total_used": 0,
+        "last_notified": null,
+        "last_redeem_time": "2025-11-24T16:54:56.952756"
+    },
+    "5803180946": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": null,
+        "total_used": 0,
+        "last_notified": null,
+        "last_redeem_time": "2025-11-28T10:46:57.497606"
+    },
+    "6741972538": {
+        "credits": 3933,
+        "plan": "VIP",
+        "plan_set_date": "2025-11-28T12:57:51.663687",
+        "total_used": 467,
+        "last_notified": "2025-11-24T11:37:29.850441",
+        "last_redeem_time": "2025-11-25T14:46:59.917462"
+    },
+    "8497158960": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": null,
+        "total_used": 0,
+        "last_notified": null
+    },
+    "7414719003": {
+        "credits": 1400,
+        "plan": "Free",
+        "plan_set_date": null,
+        "total_used": 0,
+        "last_notified": null
+    },
+    "7889794364": {
+        "credits": 1498,
+        "plan": "Free",
+        "plan_set_date": null,
+        "total_used": 2,
+        "last_notified": null,
+        "last_redeem_time": "2025-12-02T21:01:36.395482"
+    },
+    "5228395387": {
+        "credits": 1400,
+        "plan": "Free",
+        "plan_set_date": null,
+        "total_used": 0,
+        "last_notified": null,
+        "last_redeem_time": "2025-12-04T10:26:56.952466"
+    },
+    "5939105876": {
+        "credits": 1294,
+        "plan": "Free",
+        "plan_set_date": null,
+        "total_used": 6,
+        "last_notified": null
+    },
+    "7439851170": {
+        "credits": 1383,
+        "plan": "Free",
+        "plan_set_date": null,
+        "total_used": 17,
+        "last_notified": null,
+        "last_redeem_time": "2025-12-04T10:51:41.257363"
+    },
+    "7258534120": {
+        "credits": 1400,
+        "plan": "Free",
+        "plan_set_date": "2025-11-24T12:01:52.619562",
+        "total_used": 0,
+        "last_notified": null,
+        "last_redeem_time": "2025-12-04T10:27:28.409159"
+    },
+    "5820755630": {
+        "credits": 3492,
+        "plan": "Free",
+        "plan_set_date": "2025-12-12T08:02:47.412410",
+        "total_used": 8,
+        "last_notified": null,
+        "last_redeem_time": "2025-12-06T14:47:52.774446",
+        "expiry_date": null
+    },
+    "7959966088": {
+        "credits": 1374,
+        "plan": "Free",
+        "plan_set_date": "2025-12-14T09:44:21.589585",
+        "total_used": 26,
+        "last_notified": null,
+        "last_redeem_time": "2025-12-04T10:53:50.535226",
+        "expiry_date": null
+    },
+    "8017634492": {
+        "credits": 1296,
+        "plan": "Free",
+        "plan_set_date": "2025-11-28T12:02:09.531575",
+        "total_used": 9,
+        "last_notified": null
+    },
+    "5940599199": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-11-24T14:11:36.009632",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "1190705891": {
+        "credits": 1298,
+        "plan": "Free",
+        "plan_set_date": "2025-11-24T14:51:48.802288",
+        "total_used": 2,
+        "last_notified": null
+    },
+    "6344423628": {
+        "credits": 1299,
+        "plan": "Free",
+        "plan_set_date": "2025-11-24T15:04:24.777378",
+        "total_used": 1,
+        "last_notified": null
+    },
+    "1975293269": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-11-24T16:15:12.026760",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "5869859387": {
+        "credits": 1200,
+        "plan": "Free",
+        "plan_set_date": null,
+        "total_used": 0,
+        "last_redeem_time": "2025-11-24T16:53:58.512352"
+    },
+    "8535405883": {
+        "credits": 1400,
+        "plan": "Free",
+        "plan_set_date": "2025-12-02T19:04:30.672179",
+        "total_used": 0,
+        "last_redeem_time": "2025-12-18T14:57:41.395294"
+    },
+    "5608907035": {
+        "credits": 1290,
+        "plan": "Free",
+        "plan_set_date": "2025-11-24T17:04:25.340310",
+        "total_used": 10,
+        "last_redeem_time": "2025-11-24T16:54:10.851348"
+    },
+    "6399065387": {
+        "credits": 1184,
+        "plan": "Free",
+        "plan_set_date": null,
+        "total_used": 16,
+        "last_redeem_time": "2025-11-24T16:54:15.553123"
+    },
+    "7862411601": {
+        "credits": 1200,
+        "plan": "Free",
+        "plan_set_date": null,
+        "total_used": 0,
+        "last_redeem_time": "2025-11-26T12:17:07.219572"
+    },
+    "7781566596": {
+        "credits": 1200,
+        "plan": "Free",
+        "plan_set_date": null,
+        "total_used": 0,
+        "last_redeem_time": "2025-11-24T16:54:36.040598"
+    },
+    "8389010427": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-11-24T16:54:37.828910",
+        "total_used": 0,
+        "last_notified": null,
+        "last_redeem_time": "2025-12-02T20:53:41.016396"
+    },
+    "8082686314": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-11-24T16:54:50.631693",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "2024653852": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-11-25T09:17:02.690645",
+        "total_used": 0,
+        "last_redeem_time": "2025-11-24T16:54:56.574131"
+    },
+    "7681962230": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-11-24T16:55:47.250029",
+        "total_used": 0,
+        "last_redeem_time": "2025-11-24T16:55:04.086075"
+    },
+    "7653724950": {
+        "credits": 1200,
+        "plan": "Free",
+        "plan_set_date": null,
+        "total_used": 0,
+        "last_redeem_time": "2025-11-24T16:55:30.479939"
+    },
+    "5056427497": {
+        "credits": 1299,
+        "plan": "Free",
+        "plan_set_date": null,
+        "total_used": 1,
+        "last_notified": null
+    },
+    "7909071390": {
+        "credits": 2282,
+        "plan": "Free",
+        "plan_set_date": null,
+        "total_used": 18,
+        "last_notified": null
+    },
+    "7328511005": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-11-30T15:41:01.121007",
+        "total_used": 0,
+        "last_redeem_time": "2025-11-24T17:03:44.848352"
+    },
+    "8025934606": {
+        "credits": 1277,
+        "plan": "Free",
+        "plan_set_date": null,
+        "total_used": 23,
+        "last_notified": null
+    },
+    "8085855107": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": null,
+        "total_used": 0,
+        "last_notified": null
+    },
+    "8265243372": {
+        "credits": 597,
+        "plan": "Free",
+        "plan_set_date": "2025-11-24T17:06:54.014345",
+        "total_used": 703,
+        "last_notified": null
+    },
+    "6550643168": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-11-24T17:15:06.497731",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "7253301475": {
+        "credits": 797,
+        "plan": "VIP",
+        "plan_set_date": "2025-12-18T14:53:06.713843",
+        "total_used": 1403,
+        "last_redeem_time": "2025-12-02T20:47:38.229253",
+        "expiry_date": "2025-12-23T14:53:06.713961"
+    },
+    "7374033503": {
+        "credits": 1293,
+        "plan": "Free",
+        "plan_set_date": null,
+        "total_used": 7,
+        "last_notified": null,
+        "last_redeem_time": "2025-11-25T19:54:17.460834"
+    },
+    "6699273462": {
+        "credits": 1299,
+        "plan": "Free",
+        "plan_set_date": "2025-11-24T19:40:37.896605",
+        "total_used": 1,
+        "last_notified": null
+    },
+    "7453287705": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": null,
+        "total_used": 0,
+        "last_notified": null
+    },
+    "5056045687": {
+        "credits": 1500,
+        "plan": "Free",
+        "plan_set_date": "2025-11-24T20:20:18.729908",
+        "total_used": 0,
+        "last_notified": null,
+        "last_redeem_time": "2025-12-06T14:45:55.647475"
+    },
+    "7542402708": {
+        "credits": 1398,
+        "plan": "Free",
+        "plan_set_date": null,
+        "total_used": 2,
+        "last_notified": null
+    },
+    "8303805933": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-11-24T21:05:31.821056",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "7645071758": {
+        "credits": 1263,
+        "plan": "Free",
+        "plan_set_date": "2025-11-24T22:44:37.138475",
+        "total_used": 37,
+        "last_notified": null
+    },
+    "7834910899": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-11-25T00:07:46.991853",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "7364902397": {
+        "credits": 1235,
+        "plan": "Free",
+        "plan_set_date": "2025-11-25T01:54:46.122922",
+        "total_used": 65,
+        "last_notified": null
+    },
+    "7586054046": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-11-25T02:03:18.310321",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "5653137695": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-11-25T09:08:20.232627",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "7062402502": {
+        "credits": 1654,
+        "plan": "VIP",
+        "plan_set_date": "2025-12-14T09:42:05.911264",
+        "total_used": 46,
+        "last_notified": null,
+        "expiry_date": "2025-12-24T09:42:05.911273"
+    },
+    "7834064779": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-11-25T09:13:18.296182",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "936011234": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-11-25T11:04:57.889889",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "1624840921": {
+        "credits": 1220,
+        "plan": "Free",
+        "plan_set_date": "2025-11-25T13:49:19.721655",
+        "total_used": 80,
+        "last_notified": null,
+        "last_redeem_time": "2025-11-26T12:17:07.831759"
+    },
+    "5459391671": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-11-25T14:02:50.756285",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "6578978830": {
+        "credits": 1200,
+        "plan": "Free",
+        "plan_set_date": null,
+        "total_used": 0,
+        "last_redeem_time": "2025-11-25T14:46:46.527973"
+    },
+    "5334272183": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-11-25T15:13:50.523810",
+        "total_used": 0,
+        "last_redeem_time": "2025-11-26T12:17:08.816783"
+    },
+    "6154422848": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": null,
+        "total_used": 0,
+        "last_redeem_time": "2025-12-04T10:27:01.231692"
+    },
+    "7989521948": {
+        "credits": 1200,
+        "plan": "Free",
+        "plan_set_date": null,
+        "total_used": 0,
+        "last_redeem_time": "2025-11-25T14:47:08.195423"
+    },
+    "1815327853": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-11-25T14:47:35.181324",
+        "total_used": 0,
+        "last_redeem_time": "2025-11-25T14:47:09.108342"
+    },
+    "5088289720": {
+        "credits": 1200,
+        "plan": "Free",
+        "plan_set_date": null,
+        "total_used": 0,
+        "last_redeem_time": "2025-11-25T14:47:09.443447"
+    },
+    "6325122031": {
+        "credits": 1293,
+        "plan": "Free",
+        "plan_set_date": "2025-11-25T14:47:46.751931",
+        "total_used": 7,
+        "last_redeem_time": "2025-11-25T14:47:11.131599"
+    },
+    "8437459430": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-11-25T18:23:55.915871",
+        "total_used": 0,
+        "last_redeem_time": "2025-11-26T12:17:43.130312"
+    },
+    "1694669957": {
+        "credits": 1200,
+        "plan": "Free",
+        "plan_set_date": null,
+        "total_used": 0,
+        "last_redeem_time": "2025-11-25T14:47:49.064016"
+    },
+    "5008711235": {
+        "credits": 1200,
+        "plan": "Free",
+        "plan_set_date": null,
+        "total_used": 0,
+        "last_redeem_time": "2025-11-25T14:48:07.591206"
+    },
+    "8248203706": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-11-25T20:48:59.639266",
+        "total_used": 0,
+        "last_redeem_time": "2025-11-25T14:48:35.306644"
+    },
+    "7632516609": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-11-25T17:21:55.040333",
+        "total_used": 0,
+        "last_redeem_time": "2025-11-25T14:48:39.903095"
+    },
+    "6255366859": {
+        "credits": 1271,
+        "plan": "Free",
+        "plan_set_date": "2025-11-25T14:49:26.090328",
+        "total_used": 29,
+        "last_notified": null
+    },
+    "6570596667": {
+        "credits": 1200,
+        "plan": "Free",
+        "plan_set_date": null,
+        "total_used": 0,
+        "last_redeem_time": "2025-11-25T14:50:06.620596"
+    },
+    "6057257584": {
+        "credits": 1200,
+        "plan": "Free",
+        "plan_set_date": null,
+        "total_used": 0,
+        "last_redeem_time": "2025-11-25T14:53:38.671644"
+    },
+    "5690849454": {
+        "credits": 1200,
+        "plan": "Free",
+        "plan_set_date": null,
+        "total_used": 0,
+        "last_redeem_time": "2025-11-25T14:54:04.603303"
+    },
+    "8487260266": {
+        "credits": 1200,
+        "plan": "Free",
+        "plan_set_date": null,
+        "total_used": 0,
+        "last_redeem_time": "2025-11-25T14:54:27.191898"
+    },
+    "7562829149": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-11-25T14:56:22.552916",
+        "total_used": 0,
+        "last_redeem_time": "2025-11-25T14:54:47.429799"
+    },
+    "7928993116": {
+        "credits": 1259,
+        "plan": "Free",
+        "plan_set_date": "2025-11-25T14:55:48.657573",
+        "total_used": 41,
+        "last_redeem_time": "2025-11-26T12:19:03.811997"
+    },
+    "8356371957": {
+        "credits": 1200,
+        "plan": "Free",
+        "plan_set_date": null,
+        "total_used": 0,
+        "last_redeem_time": "2025-11-25T14:56:29.263981"
+    },
+    "6268882958": {
+        "credits": 1298,
+        "plan": "Free",
+        "plan_set_date": "2025-11-25T15:02:52.363089",
+        "total_used": 2,
+        "last_redeem_time": "2025-11-25T14:57:09.043401"
+    },
+    "7650292405": {
+        "credits": 1287,
+        "plan": "Free",
+        "plan_set_date": "2025-11-25T14:57:34.514266",
+        "total_used": 13,
+        "last_notified": null,
+        "last_redeem_time": "2025-11-29T17:18:49.474112"
+    },
+    "1240661708": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-11-25T15:09:10.694823",
+        "total_used": 0,
+        "last_redeem_time": "2025-11-25T15:00:02.149275"
+    },
+    "35984590": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-11-25T15:05:33.464952",
+        "total_used": 0,
+        "last_redeem_time": "2025-11-25T15:04:44.028107"
+    },
+    "6729318588": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-11-25T15:26:19.462350",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "6587186574": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-11-25T16:21:23.577332",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "6484184310": {
+        "credits": 1300,
+        "plan": "VIP",
+        "plan_set_date": "2025-12-17T07:12:25.579028",
+        "total_used": 0,
+        "last_notified": null,
+        "expiry_date": "2025-12-22T07:12:25.579040"
+    },
+    "6524790432": {
+        "credits": 6971087,
+        "plan": "Free",
+        "plan_set_date": "2025-12-12T10:26:37.387419",
+        "total_used": 9,
+        "last_notified": null,
+        "expiry_date": null
+    },
+    "6296281026": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-11-26T04:17:55.841604",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "1354594128": {
+        "credits": 1204,
+        "plan": "Free",
+        "plan_set_date": "2025-11-26T05:33:37.606729",
+        "total_used": 96,
+        "last_notified": null
+    },
+    "6214668144": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-11-26T09:42:39.882207",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "6332833570": {
+        "credits": 1208,
+        "plan": "Free",
+        "plan_set_date": "2025-11-26T09:53:40.534981",
+        "total_used": 92,
+        "last_notified": null,
+        "last_redeem_time": "2025-11-26T13:50:50.416479"
+    },
+    "8024476044": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-11-26T10:23:06.957217",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "7349285740": {
+        "credits": 1280,
+        "plan": "Free",
+        "plan_set_date": "2025-11-30T17:09:14.698568",
+        "total_used": 120,
+        "last_notified": null,
+        "last_redeem_time": "2025-11-26T12:17:50.308259"
+    },
+    "6247869892": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-11-27T11:04:49.600581",
+        "total_used": 0,
+        "last_redeem_time": "2025-11-26T12:17:11.515685"
+    },
+    "7323192068": {
+        "credits": 1200,
+        "plan": "Free",
+        "plan_set_date": "2025-11-26T12:17:51.615305",
+        "total_used": 100,
+        "last_redeem_time": "2025-11-26T12:17:16.995475"
+    },
+    "7959534626": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-11-26T12:53:41.887630",
+        "total_used": 0,
+        "last_redeem_time": "2025-11-26T12:17:54.237327"
+    },
+    "1940717885": {
+        "credits": 1200,
+        "plan": "Free",
+        "plan_set_date": null,
+        "total_used": 0,
+        "last_redeem_time": "2025-11-26T12:18:43.774919"
+    },
+    "8493336219": {
+        "credits": 1496,
+        "plan": "Free",
+        "plan_set_date": "2025-12-02T20:27:16.499385",
+        "total_used": 104,
+        "last_redeem_time": "2025-12-06T14:46:15.392300"
+    },
+    "6031160297": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-11-26T12:23:41.008087",
+        "total_used": 0,
+        "last_redeem_time": "2025-11-26T12:23:08.813790"
+    },
+    "7098912960": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-11-26T12:43:41.004071",
+        "total_used": 0,
+        "last_redeem_time": "2025-11-26T12:41:21.906416"
+    },
+    "7806674216": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-11-26T13:02:45.629858",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "6919723285": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-11-29T05:28:10.827587",
+        "total_used": 0,
+        "last_redeem_time": "2025-11-26T13:13:22.302950"
+    },
+    "5530829067": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-11-26T15:09:11.602075",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "6821580976": {
+        "credits": 1397,
+        "plan": "Premium",
+        "plan_set_date": "2025-12-03T16:02:29.752458",
+        "total_used": 803,
+        "last_notified": null
+    },
+    "6856509474": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-11-27T03:02:49.366341",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "8150187557": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-11-27T11:30:06.718274",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "7785281194": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-11-27T11:54:08.706321",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "8171100881": {
+        "credits": 1226,
+        "plan": "Free",
+        "plan_set_date": "2025-11-27T13:02:07.538367",
+        "total_used": 74,
+        "last_notified": null
+    },
+    "7041624118": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-11-27T14:32:16.505906",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "8569060415": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-11-27T14:58:02.763865",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "2044303290": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-11-27T16:38:05.488391",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "7688488352": {
+        "credits": 11200,
+        "plan": "Free",
+        "plan_set_date": null,
+        "total_used": 0,
+        "last_notified": null
+    },
+    "6891929831": {
+        "credits": 2200,
+        "plan": "VIP",
+        "plan_set_date": "2025-12-16T20:07:51.522545",
+        "total_used": 0,
+        "last_notified": null,
+        "expiry_date": "2025-12-21T20:07:51.522553"
+    },
+    "6110610797": {
+        "credits": 2200,
+        "plan": "Free",
+        "plan_set_date": null,
+        "total_used": 0,
+        "last_notified": null
+    },
+    "7708627627": {
+        "credits": 1299,
+        "plan": "Free",
+        "plan_set_date": "2025-11-28T10:53:32.935391",
+        "total_used": 1,
+        "last_notified": null
+    },
+    "6644395293": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-11-28T11:57:21.073529",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "6199773763": {
+        "credits": 1414,
+        "plan": "Free",
+        "plan_set_date": "2025-11-30T00:12:15.029748",
+        "total_used": 186,
+        "last_notified": null,
+        "last_redeem_time": "2025-12-06T14:45:50.213054"
+    },
+    "6148915070": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-11-28T12:40:07.999649",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "6071715158": {
+        "credits": 1499,
+        "plan": "Free",
+        "plan_set_date": "2025-11-28T14:57:44.578315",
+        "total_used": 1,
+        "last_notified": null,
+        "last_redeem_time": "2025-12-18T14:54:42.448726"
+    },
+    "5928464144": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-11-28T15:21:55.587781",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "8474603235": {
+        "credits": 1269,
+        "plan": "Free",
+        "plan_set_date": "2025-11-28T16:31:47.989060",
+        "total_used": 31,
+        "last_notified": null
+    },
+    "7342142404": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-11-28T21:21:04.455579",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "5695514027": {
+        "credits": 1229,
+        "plan": "Free",
+        "plan_set_date": "2025-11-29T04:31:01.955037",
+        "total_used": 71,
+        "last_notified": null
+    },
+    "8437036641": {
+        "credits": 1400,
+        "plan": "Free",
+        "plan_set_date": "2025-11-29T06:48:27.382739",
+        "total_used": 0,
+        "last_notified": null,
+        "last_redeem_time": "2025-12-18T14:54:22.608190"
+    },
+    "5637079598": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-11-29T06:58:20.796738",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "8461467613": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-11-29T07:41:10.459398",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "8084005621": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-11-29T10:44:36.553771",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "6768476016": {
+        "credits": 1299,
+        "plan": "Free",
+        "plan_set_date": "2025-11-29T14:05:45.046253",
+        "total_used": 1,
+        "last_notified": null
+    },
+    "7863921648": {
+        "credits": 1200,
+        "plan": "Free",
+        "plan_set_date": null,
+        "total_used": 0,
+        "last_redeem_time": "2025-11-29T17:17:55.822710"
+    },
+    "6937090889": {
+        "credits": 1200,
+        "plan": "Free",
+        "plan_set_date": null,
+        "total_used": 0,
+        "last_redeem_time": "2025-11-29T17:17:56.353281"
+    },
+    "1578195925": {
+        "credits": 1300,
+        "plan": "VIP",
+        "plan_set_date": "2025-12-17T07:11:29.108598",
+        "total_used": 0,
+        "last_redeem_time": "2025-12-02T20:39:44.198982",
+        "expiry_date": "2025-12-22T07:11:29.108606"
+    },
+    "5599050343": {
+        "credits": 1200,
+        "plan": "Free",
+        "plan_set_date": null,
+        "total_used": 0,
+        "last_redeem_time": "2025-11-29T17:18:16.080907"
+    },
+    "6101562778": {
+        "credits": 1262,
+        "plan": "Free",
+        "plan_set_date": "2025-11-29T17:19:05.616965",
+        "total_used": 38,
+        "last_redeem_time": "2025-12-03T01:57:57.835807"
+    },
+    "7708255381": {
+        "credits": 1200,
+        "plan": "Free",
+        "plan_set_date": null,
+        "total_used": 0,
+        "last_redeem_time": "2025-11-29T17:19:39.669112"
+    },
+    "6579152790": {
+        "credits": 1490,
+        "plan": "Free",
+        "plan_set_date": "2025-11-29T17:22:23.891199",
+        "total_used": 10,
+        "last_redeem_time": "2025-12-18T14:55:57.776724"
+    },
+    "7196113985": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-11-29T17:22:55.894944",
+        "total_used": 0,
+        "last_redeem_time": "2025-11-29T17:22:29.314178"
+    },
+    "7908065443": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-11-29T17:58:42.750220",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "7211839681": {
+        "credits": 1400,
+        "plan": "Free",
+        "plan_set_date": "2025-11-29T18:15:48.104308",
+        "total_used": 0,
+        "last_notified": null,
+        "last_redeem_time": "2025-12-18T14:55:51.814449"
+    },
+    "1250641292": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-11-29T18:18:59.485419",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "8035656871": {
+        "credits": 1264,
+        "plan": "Free",
+        "plan_set_date": "2025-11-30T08:30:12.666773",
+        "total_used": 36,
+        "last_notified": null
+    },
+    "7392346552": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-11-30T09:22:22.292377",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "6191213047": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-11-30T09:30:01.974669",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "8389361090": {
+        "credits": 1200,
+        "plan": "Free",
+        "plan_set_date": "2025-11-30T09:32:44.612204",
+        "total_used": 100,
+        "last_notified": null
+    },
+    "5656563504": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-11-30T09:46:29.986277",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "1676131863": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-11-30T11:12:11.271535",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "8253602696": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-11-30T11:41:28.047363",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "7026208987": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-11-30T13:02:57.534938",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "7665418335": {
+        "credits": 1297,
+        "plan": "Free",
+        "plan_set_date": "2025-11-30T13:04:14.128474",
+        "total_used": 3,
+        "last_notified": null
+    },
+    "7431622335": {
+        "credits": 2189,
+        "plan": "VIP",
+        "plan_set_date": "2025-12-11T22:40:00.163638",
+        "total_used": 11,
+        "last_notified": null,
+        "expiry_date": "2025-12-21T22:40:00.163652"
+    },
+    "7619372262": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-11-30T13:42:34.230115",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "1139535001": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-11-30T13:48:23.033455",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "7133416411": {
+        "credits": 1284,
+        "plan": "Free",
+        "plan_set_date": "2025-11-30T15:23:16.601846",
+        "total_used": 16,
+        "last_notified": null
+    },
+    "1316083224": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-11-30T15:38:13.631265",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "6256406124": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-11-30T16:10:18.660670",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "8184953241": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-11-30T16:32:11.751443",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "123896363": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-11-30T16:35:56.754920",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "7837487440": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-11-30T16:48:09.581335",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "7568910035": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-11-30T16:51:25.906610",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "8463027474": {
+        "credits": 1500,
+        "plan": "Free",
+        "plan_set_date": "2025-11-30T16:52:51.978131",
+        "total_used": 0,
+        "last_notified": null,
+        "last_redeem_time": "2025-12-06T14:46:09.060913"
+    },
+    "1214116236": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-11-30T17:19:06.739058",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "6485665162": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-11-30T17:57:36.431602",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "6452812481": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-11-30T18:08:28.848891",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "6153695505": {
+        "credits": 1541,
+        "plan": "Free",
+        "plan_set_date": "2025-11-30T19:44:48.508990",
+        "total_used": 59,
+        "last_notified": null,
+        "last_redeem_time": "2025-12-06T14:45:54.020167"
+    },
+    "1606034177": {
+        "credits": 1278,
+        "plan": "Free",
+        "plan_set_date": "2025-11-30T20:02:08.314703",
+        "total_used": 22,
+        "last_notified": null
+    },
+    "6560502851": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-11-30T20:52:00.626271",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "7196808804": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-12-01T04:41:58.295634",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "8415844906": {
+        "credits": 1299,
+        "plan": "Free",
+        "plan_set_date": "2025-12-01T06:45:22.179060",
+        "total_used": 1,
+        "last_notified": null
+    },
+    "7448771685": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-12-01T08:40:50.659595",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "6849160534": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-12-01T11:09:12.091983",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "5657313161": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-12-01T11:32:10.085112",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "6800732852": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-12-01T12:25:33.125023",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "6988403573": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-12-01T15:01:53.866341",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "1515670884": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-12-01T15:03:15.281234",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "5994305183": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-12-01T16:00:55.083898",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "8400598662": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-12-01T19:12:00.952138",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "7821481156": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-12-01T19:35:23.290827",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "6709452696": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-12-02T20:38:55.129465",
+        "total_used": 100,
+        "last_notified": null,
+        "last_redeem_time": "2025-12-02T20:39:47.677640"
+    },
+    "8484175713": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-12-01T23:52:48.773987",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "8213888746": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-12-02T01:22:34.216526",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "5773533810": {
+        "credits": 680,
+        "plan": "Free",
+        "plan_set_date": "2025-12-04T03:36:39.212097",
+        "total_used": 720,
+        "last_notified": null
+    },
+    "7633334427": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-12-02T02:47:59.341977",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "6827304330": {
+        "credits": 1274,
+        "plan": "Free",
+        "plan_set_date": "2025-12-02T02:56:27.927660",
+        "total_used": 26,
+        "last_notified": null
+    },
+    "7985144785": {
+        "credits": 1288,
+        "plan": "Free",
+        "plan_set_date": "2025-12-02T06:18:35.577088",
+        "total_used": 12,
+        "last_notified": null
+    },
+    "7752750251": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-12-02T09:04:57.806035",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "7774195758": {
+        "credits": 1297,
+        "plan": "Free",
+        "plan_set_date": "2025-12-02T10:07:23.799215",
+        "total_used": 3,
+        "last_notified": null
+    },
+    "6932661888": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-12-02T11:16:57.934420",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "1725405999": {
+        "credits": 4200,
+        "plan": "VIP",
+        "plan_set_date": "2025-12-02T14:49:04.770400",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "5652614329": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-12-02T16:38:38.459728",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "1963849269": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-12-02T17:22:20.842200",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "7746481794": {
+        "credits": 4090,
+        "plan": "VIP",
+        "plan_set_date": "2025-12-02T19:48:11.190382",
+        "total_used": 110,
+        "last_notified": null
+    },
+    "7760988338": {
+        "credits": 1400,
+        "plan": "Free",
+        "plan_set_date": "2025-12-02T20:20:32.346577",
+        "total_used": 0,
+        "last_notified": null,
+        "last_redeem_time": "2025-12-18T15:00:52.103346"
+    },
+    "7128216560": {
+        "credits": 1279,
+        "plan": "Free",
+        "plan_set_date": "2025-12-02T20:38:31.927220",
+        "total_used": 21,
+        "last_notified": null,
+        "last_redeem_time": "2025-12-02T20:41:50.199433"
+    },
+    "6726391662": {
+        "credits": 1298,
+        "plan": "Free",
+        "plan_set_date": "2025-12-02T20:40:19.138165",
+        "total_used": 2,
+        "last_notified": null,
+        "last_redeem_time": "2025-12-02T20:40:50.288691"
+    },
+    "6486403708": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-12-02T20:40:33.642040",
+        "total_used": 0,
+        "last_notified": null,
+        "last_redeem_time": "2025-12-02T20:41:02.413072"
+    },
+    "7389519750": {
+        "credits": 1298,
+        "plan": "Free",
+        "plan_set_date": "2025-12-02T20:42:05.678663",
+        "total_used": 2,
+        "last_notified": null,
+        "last_redeem_time": "2025-12-02T20:42:19.543615"
+    },
+    "1440473126": {
+        "credits": 1200,
+        "plan": "Free",
+        "plan_set_date": null,
+        "total_used": 0,
+        "last_redeem_time": "2025-12-02T20:42:57.708306"
+    },
+    "1887355322": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-12-02T20:44:16.592264",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "7821253469": {
+        "credits": 1240,
+        "plan": "Free",
+        "plan_set_date": "2025-12-02T20:49:26.820366",
+        "total_used": 60,
+        "last_notified": null,
+        "last_redeem_time": "2025-12-02T20:49:37.146746"
+    },
+    "7676609821": {
+        "credits": 1500,
+        "plan": "Free",
+        "plan_set_date": "2025-12-02T20:54:54.137220",
+        "total_used": 0,
+        "last_redeem_time": "2025-12-06T14:50:13.072160"
+    },
+    "1419583108": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-12-02T20:57:43.988524",
+        "total_used": 0,
+        "last_redeem_time": "2025-12-02T20:55:22.522189"
+    },
+    "1296399297": {
+        "credits": 1200,
+        "plan": "Free",
+        "plan_set_date": null,
+        "total_used": 0,
+        "last_redeem_time": "2025-12-02T21:01:22.091314"
+    },
+    "2075863010": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-12-02T21:04:28.576463",
+        "total_used": 0,
+        "last_redeem_time": "2025-12-02T21:02:34.503732"
+    },
+    "5020906694": {
+        "credits": 1200,
+        "plan": "Free",
+        "plan_set_date": null,
+        "total_used": 0,
+        "last_redeem_time": "2025-12-02T21:02:55.097115"
+    },
+    "7965818105": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-12-02T21:07:16.093090",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "1463370974": {
+        "credits": 1200,
+        "plan": "Free",
+        "plan_set_date": null,
+        "total_used": 0,
+        "last_redeem_time": "2025-12-02T21:09:54.263773"
+    },
+    "5215147161": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-12-02T21:44:58.486172",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "8032931708": {
+        "credits": 1279,
+        "plan": "Free",
+        "plan_set_date": "2025-12-02T23:14:07.629126",
+        "total_used": 21,
+        "last_redeem_time": "2025-12-02T22:19:05.979102"
+    },
+    "1884480767": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-12-02T22:35:10.764039",
+        "total_used": 0,
+        "last_notified": null,
+        "last_redeem_time": "2025-12-02T22:35:16.785649"
+    },
+    "7668378482": {
+        "credits": 1200,
+        "plan": "Free",
+        "plan_set_date": null,
+        "total_used": 0,
+        "last_redeem_time": "2025-12-02T22:36:12.336990"
+    },
+    "5923090134": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-12-02T23:18:40.577129",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "720805302": {
+        "credits": 1500,
+        "plan": "Free",
+        "plan_set_date": "2025-12-03T00:03:36.747989",
+        "total_used": 0,
+        "last_redeem_time": "2025-12-06T14:47:06.923036"
+    },
+    "6123315504": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-12-03T00:39:50.503364",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "5833054136": {
+        "credits": 1293,
+        "plan": "Free",
+        "plan_set_date": "2025-12-03T01:22:55.816690",
+        "total_used": 7,
+        "last_notified": null
+    },
+    "8476381399": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-12-03T01:30:43.218041",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "7007950130": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-12-03T01:38:32.886189",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "6668124608": {
+        "credits": 1299,
+        "plan": "Free",
+        "plan_set_date": "2025-12-03T01:53:45.014431",
+        "total_used": 1,
+        "last_notified": null
+    },
+    "5842215745": {
+        "credits": 1200,
+        "plan": "VIP",
+        "plan_set_date": "2025-12-14T14:30:19.734298",
+        "total_used": 0,
+        "last_redeem_time": "2025-12-03T01:55:45.097207",
+        "expiry_date": "2025-12-19T14:30:19.734310"
+    },
+    "1865093495": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-12-03T02:40:43.115250",
+        "total_used": 0,
+        "last_redeem_time": "2025-12-03T02:33:38.197327"
+    },
+    "6245374101": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-12-03T02:59:23.772354",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "7813681075": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-12-03T03:07:34.711314",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "7022183735": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-12-03T03:11:52.326464",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "1673094962": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-12-03T06:23:16.618197",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "6301520211": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-12-03T07:51:52.763352",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "2092939350": {
+        "credits": 1500,
+        "plan": "Free",
+        "plan_set_date": "2025-12-03T10:03:19.432278",
+        "total_used": 0,
+        "last_notified": null,
+        "last_redeem_time": "2025-12-06T14:46:26.476738"
+    },
+    "1094171090": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-12-03T10:08:29.475665",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "7460561008": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-12-03T11:42:38.646228",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "5923929978": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-12-03T13:22:11.052828",
+        "total_used": 0,
+        "last_redeem_time": "2025-12-03T13:21:27.935101"
+    },
+    "5763201763": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-12-03T14:00:54.121210",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "8162175408": {
+        "credits": 1400,
+        "plan": "Free",
+        "plan_set_date": "2025-12-03T14:47:12.823367",
+        "total_used": 0,
+        "last_notified": null,
+        "last_redeem_time": "2025-12-04T10:28:01.037152"
+    },
+    "7674310884": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-12-03T15:26:43.094290",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "8406275443": {
+        "credits": 1200,
+        "plan": "Free",
+        "plan_set_date": null,
+        "total_used": 0,
+        "last_redeem_time": "2025-12-03T15:55:17.204016"
+    },
+    "7502349385": {
+        "credits": 1421,
+        "plan": "Free",
+        "plan_set_date": "2025-12-03T15:59:10.600632",
+        "total_used": 79,
+        "last_redeem_time": "2025-12-06T15:00:57.151690"
+    },
+    "5911569161": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-12-03T16:01:19.626749",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "8019068225": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-12-03T16:12:06.457814",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "8267670492": {
+        "credits": 1400,
+        "plan": "Free",
+        "plan_set_date": "2025-12-03T16:17:21.366872",
+        "total_used": 0,
+        "last_notified": null,
+        "last_redeem_time": "2025-12-04T10:27:05.605627"
+    },
+    "8231508630": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-12-03T16:23:41.641710",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "7662367653": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-12-03T16:37:25.958282",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "1778152082": {
+        "credits": 1500,
+        "plan": "Free",
+        "plan_set_date": "2025-12-03T16:47:22.701080",
+        "total_used": 0,
+        "last_notified": null,
+        "last_redeem_time": "2025-12-06T14:49:27.852133"
+    },
+    "8424434838": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-12-03T16:48:58.342979",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "7812313703": {
+        "credits": 1600,
+        "plan": "Free",
+        "plan_set_date": "2025-12-03T16:56:20.890796",
+        "total_used": 0,
+        "last_notified": null,
+        "last_redeem_time": "2025-12-18T14:57:07.232362"
+    },
+    "6822851380": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-12-03T18:00:56.282942",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "7978619013": {
+        "credits": 1400,
+        "plan": "Free",
+        "plan_set_date": "2025-12-03T19:03:33.518261",
+        "total_used": 0,
+        "last_notified": null,
+        "last_redeem_time": "2025-12-04T10:30:49.174142"
+    },
+    "1741367415": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-12-03T19:27:20.925971",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "5248903529": {
+        "credits": 4200,
+        "plan": "VIP",
+        "plan_set_date": "2025-12-03T21:07:21.821352",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "1808864559": {
+        "credits": 1270,
+        "plan": "Free",
+        "plan_set_date": "2025-12-03T23:33:03.497738",
+        "total_used": 30,
+        "last_notified": null
+    },
+    "8584011212": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-12-04T01:20:48.112834",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "7103770217": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-12-04T02:07:15.457776",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "8440377240": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-12-04T03:36:58.278627",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "7415010109": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-12-04T05:50:15.542722",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "8413856991": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-12-04T05:51:08.751641",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "1339437065": {
+        "credits": 1500,
+        "plan": "Free",
+        "plan_set_date": "2025-12-04T07:55:39.252281",
+        "total_used": 0,
+        "last_notified": null,
+        "last_redeem_time": "2025-12-06T14:51:44.400770"
+    },
+    "6785360672": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-12-04T07:56:01.055106",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "7714896632": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": null,
+        "total_used": 0,
+        "last_notified": null,
+        "last_redeem_time": "2025-12-04T10:27:00.428573"
+    },
+    "852086573": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": null,
+        "total_used": 0,
+        "last_notified": null,
+        "last_redeem_time": "2025-12-04T10:27:05.301030"
+    },
+    "7569714473": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": null,
+        "total_used": 0,
+        "last_notified": null,
+        "last_redeem_time": "2025-12-04T10:27:28.427650"
+    },
+    "5027989385": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-12-04T10:28:17.258225",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "1461234326": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": null,
+        "total_used": 0,
+        "last_notified": null,
+        "last_redeem_time": "2025-12-04T10:30:21.960416"
+    },
+    "7179231527": {
+        "credits": 1135,
+        "plan": "Free",
+        "plan_set_date": null,
+        "total_used": 165,
+        "last_notified": null,
+        "last_redeem_time": "2025-12-04T10:54:41.615304"
+    },
+    "8137863221": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-12-04T12:47:17.680574",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "1882192721": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-12-04T15:53:38.385456",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "1324964178": {
+        "credits": 1288,
+        "plan": "Free",
+        "plan_set_date": "2025-12-04T16:30:47.315007",
+        "total_used": 12,
+        "last_notified": null
+    },
+    "7117375146": {
+        "credits": 1299,
+        "plan": "Free",
+        "plan_set_date": "2025-12-04T16:32:23.257402",
+        "total_used": 1,
+        "last_notified": null
+    },
+    "7205267248": {
+        "credits": 1400,
+        "plan": "Free",
+        "plan_set_date": "2025-12-04T16:52:17.884961",
+        "total_used": 0,
+        "last_notified": null,
+        "last_redeem_time": "2025-12-18T14:54:05.773905"
+    },
+    "5179026592": {
+        "credits": 1296,
+        "plan": "Free",
+        "plan_set_date": "2025-12-04T16:55:19.647284",
+        "total_used": 4,
+        "last_notified": null
+    },
+    "1158743210": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-12-04T20:31:52.331532",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "7987758560": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-12-04T22:42:17.172338",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "6948149519": {
+        "credits": 1399,
+        "plan": "Free",
+        "plan_set_date": "2025-12-04T22:57:37.073543",
+        "total_used": 1,
+        "last_notified": null,
+        "last_redeem_time": "2025-12-18T14:56:53.289733"
+    },
+    "8456043064": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-12-05T02:37:27.428379",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "6088164877": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-12-05T04:16:55.438877",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "6268062835": {
+        "credits": 1300,
+        "plan": "VIP",
+        "plan_set_date": "2025-12-12T07:57:53.085444",
+        "total_used": 0,
+        "last_notified": null,
+        "expiry_date": "2025-12-22T07:57:53.085452"
+    },
+    "2131181171": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-12-05T10:06:41.978836",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "6877277507": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-12-05T14:26:41.316480",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "5953880834": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-12-05T14:40:20.757392",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "1644926906": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-12-05T15:48:54.284506",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "7221508100": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-12-05T17:25:59.568209",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "7214730073": {
+        "credits": 1285,
+        "plan": "Free",
+        "plan_set_date": "2025-12-05T19:17:21.473547",
+        "total_used": 15,
+        "last_notified": null
+    },
+    "1441777024": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-12-05T19:55:44.050789",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "6992590503": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-12-05T20:20:48.376524",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "1947266656": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-12-05T20:49:25.494983",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "5096427655": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-12-05T20:53:35.544317",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "5256276540": {
+        "credits": 1200,
+        "plan": "Free",
+        "plan_set_date": "2025-12-05T21:44:28.131246",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "5974672124": {
+        "credits": 1200,
+        "plan": "Free",
+        "plan_set_date": "2025-12-05T21:51:38.081279",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "5441260055": {
+        "credits": 1200,
+        "plan": "Free",
+        "plan_set_date": "2025-12-05T22:24:08.700606",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "6486042617": {
+        "credits": 1200,
+        "plan": "Free",
+        "plan_set_date": "2025-12-06T03:44:43.143296",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "7701638701": {
+        "credits": 1200,
+        "plan": "Free",
+        "plan_set_date": "2025-12-06T13:18:25.562225",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "7108572857": {
+        "credits": 1200,
+        "plan": "Free",
+        "plan_set_date": "2025-12-06T13:45:03.619941",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "8336851394": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": null,
+        "total_used": 0,
+        "last_notified": null,
+        "last_redeem_time": "2025-12-06T14:46:18.894094"
+    },
+    "5414392400": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": null,
+        "total_used": 0,
+        "last_notified": null,
+        "last_redeem_time": "2025-12-06T14:46:26.606040"
+    },
+    "5804676024": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": null,
+        "total_used": 0,
+        "last_notified": null,
+        "last_redeem_time": "2025-12-06T14:46:29.240700"
+    },
+    "950783182": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": null,
+        "total_used": 0,
+        "last_notified": null,
+        "last_redeem_time": "2025-12-06T14:46:50.678895"
+    },
+    "1510608235": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": null,
+        "total_used": 0,
+        "last_notified": null,
+        "last_redeem_time": "2025-12-06T14:47:10.744027"
+    },
+    "7500825587": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": null,
+        "total_used": 0,
+        "last_notified": null,
+        "last_redeem_time": "2025-12-06T14:47:13.941514"
+    },
+    "1377104120": {
+        "credits": 1200,
+        "plan": "Free",
+        "plan_set_date": "2025-12-06T14:47:19.522533",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "1647318305": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": null,
+        "total_used": 0,
+        "last_notified": null,
+        "last_redeem_time": "2025-12-06T14:48:24.236996"
+    },
+    "7486141802": {
+        "credits": 1200,
+        "plan": "Free",
+        "plan_set_date": "2025-12-06T17:28:11.762446",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "6828563190": {
+        "credits": 1200,
+        "plan": "Free",
+        "plan_set_date": "2025-12-06T17:45:39.245378",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "6812191065": {
+        "credits": 1200,
+        "plan": "Free",
+        "plan_set_date": "2025-12-06T18:12:23.414271",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "6775748231": {
+        "credits": 1300,
+        "plan": "Free",
+        "plan_set_date": "2025-12-06T18:14:00.571628",
+        "total_used": 0,
+        "last_notified": null,
+        "last_redeem_time": "2025-12-18T14:53:58.907724"
+    },
+    "6345147308": {
+        "credits": 1200,
+        "plan": "Free",
+        "plan_set_date": "2025-12-06T18:14:09.383399",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "7767904796": {
+        "credits": 1200,
+        "plan": "Free",
+        "plan_set_date": "2025-12-06T18:21:18.470630",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "8409681980": {
+        "credits": 1200,
+        "plan": "Free",
+        "plan_set_date": "2025-12-06T18:33:53.924819",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "6433212689": {
+        "credits": 1200,
+        "plan": "Free",
+        "plan_set_date": "2025-12-06T18:38:52.618412",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "7506489625": {
+        "credits": 1200,
+        "plan": "Free",
+        "plan_set_date": "2025-12-06T19:13:50.143168",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "8162265883": {
+        "credits": 1200,
+        "plan": "Free",
+        "plan_set_date": "2025-12-06T19:45:36.712560",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "7806008023": {
+        "credits": 1100,
+        "plan": "Free",
+        "plan_set_date": "2025-12-06T22:47:39.767169",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "1428670186": {
+        "credits": 1100,
+        "plan": "Free",
+        "plan_set_date": "2025-12-06T22:59:16.834049",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "7120664052": {
+        "credits": 1099,
+        "plan": "Free",
+        "plan_set_date": "2025-12-06T23:40:25.677304",
+        "total_used": 1,
+        "last_notified": null
+    },
+    "7581102228": {
+        "credits": 1100,
+        "plan": "Free",
+        "plan_set_date": "2025-12-07T05:19:41.551664",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "5802606035": {
+        "credits": 1100,
+        "plan": "Free",
+        "plan_set_date": "2025-12-07T09:10:22.080212",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "8200113536": {
+        "credits": 1100,
+        "plan": "Free",
+        "plan_set_date": "2025-12-07T09:50:19.441050",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "8482811712": {
+        "credits": 1100,
+        "plan": "Free",
+        "plan_set_date": "2025-12-07T11:01:53.261316",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "5841065410": {
+        "credits": 1100,
+        "plan": "Free",
+        "plan_set_date": "2025-12-07T12:29:50.772311",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "7880702239": {
+        "credits": 1100,
+        "plan": "Free",
+        "plan_set_date": "2025-12-07T14:32:32.365890",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "7410597450": {
+        "credits": 1100,
+        "plan": "Free",
+        "plan_set_date": "2025-12-07T14:34:18.956157",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "7683399900": {
+        "credits": 1100,
+        "plan": "Free",
+        "plan_set_date": "2025-12-07T15:48:05.346544",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "1426088117": {
+        "credits": 1100,
+        "plan": "Free",
+        "plan_set_date": null,
+        "total_used": 0,
+        "last_notified": null,
+        "last_redeem_time": "2025-12-07T16:05:56.207217"
+    },
+    "8410530460": {
+        "credits": 1100,
+        "plan": "Free",
+        "plan_set_date": "2025-12-07T16:29:49.982710",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "5386969116": {
+        "credits": 1100,
+        "plan": "Free",
+        "plan_set_date": "2025-12-07T17:14:48.702873",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "8186728637": {
+        "credits": 1100,
+        "plan": "Free",
+        "plan_set_date": "2025-12-07T18:18:36.799059",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "8230893160": {
+        "credits": 1000,
+        "plan": "Free",
+        "plan_set_date": "2025-12-07T23:52:41.848312",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "7987373319": {
+        "credits": 1000,
+        "plan": "Free",
+        "plan_set_date": "2025-12-08T02:35:36.078161",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "7169972435": {
+        "credits": 1000,
+        "plan": "Free",
+        "plan_set_date": "2025-12-08T04:08:57.174353",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "7710418997": {
+        "credits": 1000,
+        "plan": "Free",
+        "plan_set_date": "2025-12-08T06:51:49.688503",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "8073139751": {
+        "credits": 940,
+        "plan": "Free",
+        "plan_set_date": "2025-12-08T09:52:54.321359",
+        "total_used": 60,
+        "last_notified": null
+    },
+    "537519641": {
+        "credits": 1000,
+        "plan": "Free",
+        "plan_set_date": "2025-12-12T08:02:23.859018",
+        "total_used": 0,
+        "last_notified": null,
+        "expiry_date": null
+    },
+    "1646620252": {
+        "credits": 1000,
+        "plan": "Free",
+        "plan_set_date": "2025-12-08T10:19:57.983836",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "5000959485": {
+        "credits": 1000,
+        "plan": "Free",
+        "plan_set_date": "2025-12-08T13:18:22.092778",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "5925872743": {
+        "credits": 1000,
+        "plan": "Free",
+        "plan_set_date": "2025-12-08T14:58:25.681683",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "5017976489": {
+        "credits": 1000,
+        "plan": "Free",
+        "plan_set_date": "2025-12-08T14:58:36.778692",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "995752722": {
+        "credits": 1000,
+        "plan": "Free",
+        "plan_set_date": "2025-12-08T17:53:18.304862",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "8476155689": {
+        "credits": 1000,
+        "plan": "Free",
+        "plan_set_date": "2025-12-08T18:30:30.496591",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "5613036315": {
+        "credits": 800,
+        "plan": "VIP",
+        "plan_set_date": "2025-12-11T19:36:03.519720",
+        "expiry_date": "2025-12-16T19:36:03.519733",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "7537362304": {
+        "credits": 800,
+        "plan": "VIP",
+        "plan_set_date": "2025-12-11T19:37:44.986649",
+        "expiry_date": "2025-12-16T19:37:44.986662",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "6169209155": {
+        "credits": 800,
+        "plan": "Free",
+        "plan_set_date": "2025-12-11T19:50:31.489376",
+        "expiry_date": null,
+        "total_used": 0,
+        "last_notified": null
+    },
+    "7846843720": {
+        "credits": 800,
+        "plan": "Free",
+        "plan_set_date": "2025-12-11T21:00:51.060134",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "6174992305": {
+        "credits": 800,
+        "plan": "Free",
+        "plan_set_date": "2025-12-12T03:53:57.883911",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "8133382022": {
+        "credits": 800,
+        "plan": "Free",
+        "plan_set_date": "2025-12-12T04:50:37.838274",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "8518332972": {
+        "credits": 800,
+        "plan": "Free",
+        "plan_set_date": "2025-12-12T06:06:43.120040",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "6543325258": {
+        "credits": 800,
+        "plan": "Free",
+        "plan_set_date": "2025-12-12T09:01:32.476974",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "7484562675": {
+        "credits": 700,
+        "plan": "VIP",
+        "plan_set_date": "2025-12-12T11:47:41.679435",
+        "expiry_date": "2025-12-17T11:47:41.679441",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "7674677190": {
+        "credits": 800,
+        "plan": "Free",
+        "plan_set_date": "2025-12-12T12:09:09.682268",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "6009991982": {
+        "credits": 800,
+        "plan": "Free",
+        "plan_set_date": "2025-12-12T12:36:47.175200",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "1232867245": {
+        "credits": 700,
+        "plan": "VIP",
+        "plan_set_date": "2025-12-12T14:14:32.900489",
+        "expiry_date": "2025-12-17T14:14:32.900500",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "7379538626": {
+        "credits": 800,
+        "plan": "Free",
+        "plan_set_date": "2025-12-12T15:03:59.461894",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "5704975038": {
+        "credits": 800,
+        "plan": "Free",
+        "plan_set_date": "2025-12-12T15:23:58.801183",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "8202990461": {
+        "credits": 800,
+        "plan": "Free",
+        "plan_set_date": "2025-12-12T16:15:36.694570",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "7777504243": {
+        "credits": 800,
+        "plan": "Free",
+        "plan_set_date": "2025-12-12T17:46:38.906776",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "7197925008": {
+        "credits": 700,
+        "plan": "VIP",
+        "plan_set_date": "2025-12-12T18:16:48.476239",
+        "expiry_date": "2025-12-17T18:16:48.476248",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "7637707919": {
+        "credits": 800,
+        "plan": "Free",
+        "plan_set_date": "2025-12-12T18:20:02.093070",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "7380365387": {
+        "credits": 800,
+        "plan": "Free",
+        "plan_set_date": "2025-12-12T19:33:10.706675",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "8179097181": {
+        "credits": 800,
+        "plan": "Free",
+        "plan_set_date": "2025-12-12T19:49:07.077453",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "8442435061": {
+        "credits": 700,
+        "plan": "Free",
+        "plan_set_date": "2025-12-12T21:21:21.874877",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "5064416247": {
+        "credits": 700,
+        "plan": "Free",
+        "plan_set_date": "2025-12-12T22:02:23.805002",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "6917288835": {
+        "credits": 700,
+        "plan": "Free",
+        "plan_set_date": "2025-12-13T00:46:40.167934",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "7897885185": {
+        "credits": 700,
+        "plan": "Free",
+        "plan_set_date": "2025-12-13T01:54:26.024032",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "1915986755": {
+        "credits": 700,
+        "plan": "Free",
+        "plan_set_date": "2025-12-13T06:18:43.482992",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "7874226384": {
+        "credits": 800,
+        "plan": "Free",
+        "plan_set_date": "2025-12-13T10:16:22.516076",
+        "total_used": 0,
+        "last_notified": null,
+        "last_redeem_time": "2025-12-18T14:54:50.597995"
+    },
+    "8140789674": {
+        "credits": 700,
+        "plan": "Free",
+        "plan_set_date": "2025-12-13T10:22:18.191739",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "6304864760": {
+        "credits": 629,
+        "plan": "Free",
+        "plan_set_date": "2025-12-13T10:28:04.990904",
+        "total_used": 71,
+        "last_notified": null
+    },
+    "6495366932": {
+        "credits": 700,
+        "plan": "Free",
+        "plan_set_date": "2025-12-13T10:30:05.648819",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "5713529328": {
+        "credits": 700,
+        "plan": "Free",
+        "plan_set_date": "2025-12-13T11:12:25.556175",
+        "total_used": 0,
+        "last_notified": null,
+        "expiry_date": null
+    },
+    "6764559190": {
+        "credits": 700,
+        "plan": "Free",
+        "plan_set_date": "2025-12-13T11:46:00.656936",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "7217282820": {
+        "credits": 700,
+        "plan": "Free",
+        "plan_set_date": "2025-12-13T12:27:56.027885",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "1832316738": {
+        "credits": 600,
+        "plan": "VIP",
+        "plan_set_date": "2025-12-17T07:10:20.836510",
+        "expiry_date": "2025-12-22T07:10:20.836520",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "7092074614": {
+        "credits": 700,
+        "plan": "Free",
+        "plan_set_date": "2025-12-13T17:33:39.884844",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "8530717487": {
+        "credits": 700,
+        "plan": "Free",
+        "plan_set_date": "2025-12-13T20:55:14.334329",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "7132513323": {
+        "credits": 600,
+        "plan": "Free",
+        "plan_set_date": "2025-12-14T03:20:01.598480",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "7727371199": {
+        "credits": 600,
+        "plan": "Free",
+        "plan_set_date": "2025-12-14T03:50:05.678145",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "1696512220": {
+        "credits": 600,
+        "plan": "Free",
+        "plan_set_date": "2025-12-14T05:12:57.255423",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "7964868549": {
+        "credits": 600,
+        "plan": "Free",
+        "plan_set_date": "2025-12-14T08:34:43.053714",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "8221028864": {
+        "credits": 500,
+        "plan": "VIP",
+        "plan_set_date": "2025-12-14T14:32:23.774038",
+        "expiry_date": "2025-12-19T14:32:23.774047",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "5869111679": {
+        "credits": 600,
+        "plan": "Free",
+        "plan_set_date": "2025-12-14T15:03:28.189651",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "8295320165": {
+        "credits": 600,
+        "plan": "Free",
+        "plan_set_date": "2025-12-14T15:09:23.334616",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "5956291999": {
+        "credits": 600,
+        "plan": "Free",
+        "plan_set_date": "2025-12-14T17:51:37.105140",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "475172862": {
+        "credits": 500,
+        "plan": "Free",
+        "plan_set_date": "2025-12-15T02:19:21.871431",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "8416135389": {
+        "credits": 500,
+        "plan": "Free",
+        "plan_set_date": "2025-12-15T13:18:29.189502",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "5867486889": {
+        "credits": 500,
+        "plan": "Free",
+        "plan_set_date": "2025-12-15T13:38:01.907863",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "8597415233": {
+        "credits": 500,
+        "plan": "Free",
+        "plan_set_date": "2025-12-15T17:56:03.364877",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "7975109299": {
+        "credits": 500,
+        "plan": "Free",
+        "plan_set_date": "2025-12-15T19:01:10.654367",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "8135851134": {
+        "credits": 400,
+        "plan": "Free",
+        "plan_set_date": "2025-12-15T22:55:48.722415",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "8136234200": {
+        "credits": 400,
+        "plan": "Free",
+        "plan_set_date": "2025-12-16T06:33:16.750236",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "8005637313": {
+        "credits": 1400,
+        "plan": "Free",
+        "plan_set_date": "2025-12-16T10:58:47.006324",
+        "total_used": 0,
+        "last_notified": null,
+        "last_redeem_time": "2025-12-16T11:20:17.762402"
+    },
+    "6991734163": {
+        "credits": 400,
+        "plan": "Free",
+        "plan_set_date": "2025-12-16T12:29:17.580027",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "7220276318": {
+        "credits": 400,
+        "plan": "Free",
+        "plan_set_date": "2025-12-16T13:35:49.416340",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "1341192390": {
+        "credits": 400,
+        "plan": "Free",
+        "plan_set_date": "2025-12-16T16:03:38.627812",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "1721728729": {
+        "credits": 400,
+        "plan": "Free",
+        "plan_set_date": "2025-12-16T20:27:15.251021",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "1061449820": {
+        "credits": 300,
+        "plan": "Free",
+        "plan_set_date": "2025-12-17T05:53:29.617665",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "7794331270": {
+        "credits": 300,
+        "plan": "Free",
+        "plan_set_date": "2025-12-17T06:17:00.147065",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "6757745933": {
+        "credits": 300,
+        "plan": "Free",
+        "plan_set_date": "2025-12-17T06:49:59.894196",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "7678087570": {
+        "credits": 300,
+        "plan": "Free",
+        "plan_set_date": "2025-12-17T07:26:21.670366",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "8249196034": {
+        "credits": 300,
+        "plan": "Free",
+        "plan_set_date": "2025-12-17T08:05:09.957587",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "7214696998": {
+        "credits": 300,
+        "plan": "Free",
+        "plan_set_date": "2025-12-17T08:19:15.243508",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "5892364963": {
+        "credits": 400,
+        "plan": "Free",
+        "plan_set_date": "2025-12-17T10:22:39.453323",
+        "total_used": 0,
+        "last_notified": null,
+        "last_redeem_time": "2025-12-18T14:55:07.611913"
+    },
+    "6593245809": {
+        "credits": 300,
+        "plan": "Free",
+        "plan_set_date": "2025-12-17T11:49:32.858535",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "6907695532": {
+        "credits": 200,
+        "plan": "Free",
+        "plan_set_date": "2025-12-18T14:11:24.254762",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "8195953209": {
+        "credits": 200,
+        "plan": "Free",
+        "plan_set_date": null,
+        "total_used": 0,
+        "last_notified": null,
+        "last_redeem_time": "2025-12-18T14:54:26.854966"
+    },
+    "1353966046": {
+        "credits": 200,
+        "plan": "Free",
+        "plan_set_date": null,
+        "total_used": 0,
+        "last_notified": null,
+        "last_redeem_time": "2025-12-18T14:55:19.453172"
+    },
+    "7200481559": {
+        "credits": 200,
+        "plan": "Free",
+        "plan_set_date": null,
+        "total_used": 0,
+        "last_notified": null,
+        "last_redeem_time": "2025-12-18T14:56:32.094190"
+    },
+    "6904560993": {
+        "credits": 100,
+        "plan": "VIP",
+        "plan_set_date": "2025-12-18T15:03:30.314666",
+        "expiry_date": "2025-12-23T15:03:30.314674",
+        "total_used": 0,
+        "last_notified": null
+    },
+    "6204457370": {
+        "credits": 200,
+        "plan": "Free",
+        "plan_set_date": "2025-12-18T17:54:45.325308",
+        "total_used": 0,
+        "last_notified": null
+    }
+}
